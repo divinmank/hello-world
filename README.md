@@ -1,2 +1,2 @@
 # hello-world
-My first (kinda) repository on GitHub. This is for the CYF program. Blah Blah Blah, stuf stuf stuf.
+My first (kinda) repository on GitHub. This is why you should watch One Piece. Blah Blah Blah, stuf stuf stuf.
