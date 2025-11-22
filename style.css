@@ -1,0 +1,27 @@
+ul {
+  border: 2px solid green;
+  background: yellow;
+}
+ol{
+  border: 2px solid blue;
+  background: purple;
+}
+#onepiece{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+#marine{
+  display:block;
+  height: 10%;
+  width: 10%;
+}
+#cosplay{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
